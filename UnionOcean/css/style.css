@@ -401,7 +401,7 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  background-image: url('/UnionOcean/img-1/index-bg-08.jpg');
+  background-image: url('UnionOcean/img-1/index-bg-08.jpg');
   background-size: 100%;
 
   /* background: #37517e; */
